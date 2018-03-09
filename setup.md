@@ -1,9 +1,10 @@
 # Setup
+-------------------------
 
 ## Personal page (`<username>.github.io`)
 
 ### 1. Fork the repository
-Fork the repository from [here](https://github.com/kbsezginel/gh-pages-template).
+Fork the repository from [here](https://github.com/kbsezginel/gh-pages-template) by clicking the fork button on the top right corner.
 
 ### 2. Rename the repository
 Go to `Settings -> Repository name` and write down `<username>.github.io`.
@@ -11,13 +12,14 @@ Go to `Settings -> Repository name` and write down `<username>.github.io`.
 ## Project page (`<username>.github.io/<myproject>`)
 
 ### 1. Fork the repository
-Fork the repository from [here](https://github.com/kbsezginel/gh-pages-template).
+Fork the repository from [here](https://github.com/kbsezginel/gh-pages-template) by clicking the fork button on the top right corner.
 
 ### 2. Enable GitHub Pages
 Go to `Settings -> GitHub Pages` in your fork of the repository.
 Under `source` select `master branch`.
 
 # Customization
+-------------------------
 
 ## Configuring the site
 Edit the `_config.yml` file and change the site title and description.
@@ -48,6 +50,8 @@ Take a look at minimal theme page to see all the theme options: [click here](htt
 > You can also serve the website from the `docs` folder. This is especially useful for project pages to keep the website files and project files separate. You basically need to keep all the files for the webpage in a folder named `docs` and in step 2 under `source` select `master branch/docs folder`. More info [here](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/).
 
 # Resources and Tutorials
+-------------------------
+
 - [Minimal theme GitHub repository](https://github.com/pages-themes/minimal)
 
 More tutorials on github pages, markdown and Jekyll can be found here:
