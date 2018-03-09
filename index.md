@@ -1,2 +1,5 @@
-# gh-pages-template
-A template using minimal Jekyll theme for GitHub pages
+---
+layout: default
+---
+# {{site.title}}
+{{site.description}}
