@@ -7,5 +7,7 @@ navigation:
     url: /
   - title: Setup
     url: setup
+  - title: pza uptake
+    url: pza
   - title: niz uptake
     url: niz
