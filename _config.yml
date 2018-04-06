@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: New title here
+title: Advanced Scientific Visualization Assignment 3
 description: My webpage
 show_downloads: True
 navigation:
@@ -7,5 +7,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
-  - title: PZA uptake
-    url: pza
+  - title: niz uptake
+    url: niz
