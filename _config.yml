@@ -2,5 +2,13 @@ theme: jekyll-theme-minimal
 title: Advanced Scientific Visualization 
 description: My webpage
 show_downloads: True
-
+navigation:
+  - title: Home
+    url: /
+  - title: Setup
+    url: setup
+  - title: pza uptake
+    url: pza
+  - title: niz uptake
+    url: assignment3
 
